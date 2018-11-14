@@ -1,0 +1,6 @@
+[submodule "binutils"]
+	path = binutils
+	url = git://sourceware.org/git/binutils-gdb.git
+[submodule "honggfuzz"]
+	path = honggfuzz
+	url = https://github.com/google/honggfuzz.git
