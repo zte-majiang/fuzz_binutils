@@ -1,2 +1,2 @@
 # fuzz_binutils
-a automatic system that using fuzz tools to dig bugs in binutils.
+a automatic system that using fuzz tools to dig bugs in binutils（--enable-targets=all config）.
